@@ -1,1 +1,1 @@
-Content for commit: Added new feature
+Content for commit: Fixed a bug
