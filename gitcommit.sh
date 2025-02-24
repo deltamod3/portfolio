@@ -80,9 +80,9 @@ is_holiday() {
     return 1  # Not a holiday
 }
 
-# Generate random commits for the last 4 years
+# Generate random commits for the last 2 years
 generate_commits() {
-    start_date=$(date --date="4 years ago" +%Y-%m-%d)
+    start_date=$(date --date="2 years ago" +%Y-%m-%d)
     end_date=$(date +%Y-%m-%d)
     current_date=$start_date
 
