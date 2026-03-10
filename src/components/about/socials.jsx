@@ -57,7 +57,7 @@ const Socials = () => {
 			<div className="email">
 				<div className="email-wrapper">
 					<a
-						href={`mailto:${INFO.main.email}`}
+						href={`mailto:nikkamsalapang@gmail.com`}
 						target="_blank"
 						rel="noreferrer"
 					>
