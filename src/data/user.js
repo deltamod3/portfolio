@@ -50,7 +50,7 @@ const INFO = {
 			title: "Techno Global Inc",
 			description:
 				"Orchestrated the creation of a sophisticated Data Management backend utilizing Serverless Framework and Python",
-			logo: "https://technoglobalinc.com/wp-content/uploads/2017/11/logo-technoglobal-footer.png",
+			logo: "https://www.technoglobalinc.com/wp-content/uploads/2025/03/Logo-TG-01.png#106",
 			linkText: "View Project",
 			link: "http://technoglobalinc.com/",
 		},
@@ -59,7 +59,7 @@ const INFO = {
 			title: "Trailsi AB",
 			description:
 				"Innovated a comprehensive CMS (content management system) and adeptly navigated and resolved complexities surrounding SQL, NoSQL design",
-			logo: "https://trailsi.se/assets/img/logo.png",
+			logo: "https://thehub-io.imgix.net/files/s3/20211101151937-b5f5f74531e92ccc41829ff59835c3ab.jpg?fit=crop&w=300&h=300&auto=format&q=60",
 			linkText: "View Project",
 			link: "https://trailsi.se/",
 		},
